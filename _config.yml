@@ -67,17 +67,6 @@ content:
          **Co-supervisor**: Dr. Kamal El-Sankary
          
          **• Area of Study**: Microelectronics, IC design
-       - layout: left
-        title: Federal University of Minas Gearis
-        caption: 2021 - Present
-        sub_title: MSc Electrical Engineering - Microelectronics
-        quote: >
-          
-        description: | # this will include new lines to allow paragraphs
-         **• Thesis Title**: Design of a Time Domain Multiply Accumulate Unit in 180nm CMOS Technology
-         
-         **• Supervisor**: Dr. Dalton Martini Colombo
-         **Co-supervisor**: Dr. Kamal El-Sankary
          
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
