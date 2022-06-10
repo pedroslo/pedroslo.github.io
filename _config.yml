@@ -9,6 +9,7 @@ version: 2
 name: Pedro Sartori Locatelli
 title: Electrical Engineering Graduate Student
 email: pedrosartloc@gmail.com
+website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
