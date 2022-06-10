@@ -55,7 +55,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Federal University of Minas Gearis
+        title: Federal University of Minas Gearis (UFMG)
         caption: 2021 - Present
         sub_title: MSc Electrical Engineering - Microelectronics
         quote: >
@@ -68,7 +68,7 @@ content:
          
          **• Area of Study**: Microelectronics, IC design
       - layout: left
-        title: Federal Center for Technological Education of Minas Gerais
+        title: Federal Center for Technological Education of Minas Gerais (CEFET/MG)
         caption: 2015 - 202
         sub_title: BSc Electrical Engineering 
         description: | # this will include new lines to allow paragraphs
@@ -77,6 +77,8 @@ content:
          **• Undergraduate Reasearcher**: Design and implementation of a library of Integrated Circuits, for didactic and research purposes. The focus was to highlight aspects of electronics that cannot be observed in commercial ICs
          
          **• Undergraduate Teaching Assistant**: Assist the teacher and students in Electrical Power Systems classes; Assessment of activities and tests; Solve students doubts and assist in problem resolution; Give complementary lectures for students
+         
+         **• GPA**: 85.95/100
          
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
