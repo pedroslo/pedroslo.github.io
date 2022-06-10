@@ -71,12 +71,7 @@ content:
         title: Federal Center for Technological Education of Minas Gerais
         caption: 2015 - 202
         sub_title: BSc Electrical Engineering 
-        description: | # this will include new lines to allow paragraphs
-         **• Thesis Title**: Design of a Current Mode Active Pixel Array for CMOS Image Sensors
-         
-         **• Undergraduate Reasearcher: Design and implementation of a library of Integrated Circuits, for didactic and research purposes. The focus was to highlight aspects of electronics that cannot be observed in commercial ICs
-         
-         **• Thesis Title**: Undergraduate Teaching Assistant: Assist the teacher and students in Electrical Power Systems classes, Assessment of activities and tests, Solve students doubts and assist in problems resolution, Give complementary lectures for students.
+        
          
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
