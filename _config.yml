@@ -61,11 +61,11 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-         **- Thesis Title**: Design of a Time Domain Multiply Accumulate Unit in 180nm CMOS Technology
+         **• Thesis Title**: Design of a Time Domain Multiply Accumulate Unit in 180nm CMOS Technology
          
-         **- Supervisor**: Dr. Dalton Martini Colombo     Co-supervisor: Dr. Kamal El-Sankary
+         **• Supervisor**: Dr. Dalton Martini Colombo     Co-supervisor: Dr. Kamal El-Sankary
          
-         **- Area of Study**: Microelectronics, IC design
+         **• Area of Study**: Microelectronics, IC design
          
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
