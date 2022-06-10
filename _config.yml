@@ -67,7 +67,11 @@ content:
          **Co-supervisor**: Dr. Kamal El-Sankary
          
          **• Area of Study**: Microelectronics, IC design
-         
+      - layout: left
+        title: Federal University of Minas Gearis
+        caption: 2021 - Present
+        sub_title: MSc Electrical Engineering - Microelectronics
+        
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
