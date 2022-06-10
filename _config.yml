@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name is Pedro and  I'm currently pursuing an M.Sc. degree in Electrical Engineering (Microelectronics) at the Federal University of Minas Gearis (UFMG). My research concerns the design of analog and mixed-signal integrated circuits for time-domain applications. I received my B.Sc. in Electrical Engineering from the Federal Center for Technological Education of Minas Gerais (CEFET/MG) in 2020, where I worked as an undergraduated researcher on IC design and image sensors. I also have some teaching experience, having been both undergraduate and graduate teaching assistant. 
+  Hi! My name is Pedro and  I'm currently pursuing an M.Sc. degree in Electrical Engineering (Microelectronics) at the Federal University of Minas Gearis (UFMG). My research concerns the design of analog and mixed-signal integrated circuits for time-domain applications. I received my B.Sc. in Electrical Engineering from the Federal Center for Technological Education of Minas Gerais (CEFET/MG) in 2020, where I worked as an undergraduated researcher on IC design and image sensors. I also have some teaching experience, having been both undergraduate and graduate teaching assistant. 
 
 content:
   - title: Education # Title for the section
