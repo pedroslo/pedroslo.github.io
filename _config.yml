@@ -46,7 +46,7 @@ additional_links:
 
 # About Section
 # about_title: About Me
-about_profile_image: images/profile.jpg
+about_profile_image: images/perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name is Pedro and  I'm currently pursuing an M.Sc. degree in Electrical Engineering (microelectronics) at Universidade Federal de Minas Gerais (UFMG). My research concerns the design of analog and mixed-signal integrated circuits for time-domain applications. I received my B.Sc. in Electrical Engineering from Centro Federal de Educação Tecnológica de Minas Gerais (CEFET/MG) in 2020, where I worked as an undergraduated researcher on IC design and image sensors. I also have some teaching experience, having been both undergraduate and graduate teaching assistant. 
 
@@ -62,7 +62,9 @@ content:
           Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
         description: | # this will include new lines to allow paragraphs
          • Thesis Title: Design of a Time Domain Multiply Accumulate Unit in 180nm CMOS Technology
+         
          • Supervisor: Dr. Dalton Martini Colombo | Co-supervisor: Dr. Kamal El-Sankary
+         
          • Area of Study: Microelectronics, IC design
          
   - title: Projects # Title for the section
