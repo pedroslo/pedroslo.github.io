@@ -83,7 +83,6 @@ content:
   - title: Publications and conferences # Title for the section
     layout: list # Type of content section (list/text)
     content:
-    #### H4
       - layout: top-middle
         title: Publications
         # link: github.com/sproogen
@@ -93,7 +92,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          1. CARDOSO, D. S. ; LOCATELLI, P. S. ; RAMALHO, W. ; ASGARY, N. . Distributed generation of photovoltaic solar energy: impacts of ANEEL`s new regulation proposal on investment attractiveness. Brazilian Journal of Management - ReA UFSM, v. 14, p. 423-442, 2021
+          1. ###CARDOSO, D. S. ; LOCATELLI, P. S. ; RAMALHO, W. ; ASGARY, N. . Distributed generation of photovoltaic solar energy: impacts of ANEEL`s new regulation proposal on investment attractiveness. Brazilian Journal of Management - ReA UFSM, v. 14, p. 423-442, 2021
           2. Another item
       - layout: top-middle
         title: Conference Proceedings
