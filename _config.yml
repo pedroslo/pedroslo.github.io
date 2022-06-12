@@ -31,9 +31,9 @@ orcid_username: 0000-0003-3318-0194
 
 # Additional icon links
 additional_links:
-- title: itsgoingto.be
+- title: Portuguese CV
   icon: fas fa-globe
-  url: https://www.itsgoingto.be
+  url: shorturl.at/moxT5
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
 #   url: Link url (eg. https://google.com)
@@ -75,13 +75,13 @@ content:
         caption: 2015 - 2020
         sub_title: BSc Electrical Engineering 
         description: | # this will include new lines to allow paragraphs
-         - **Thesis Title**: Design of a Current Mode Active Pixel Array for CMOS Image Sensors
+         - **Thesis Title**: Design of a Current Mode Active Pixel Array for CMOS Image Sensors;
          
-         - **Undergraduate Reasearcher**: Design and implementation of a library of Integrated Circuits, for didactic and research purposes. The focus was to highlight aspects of electronics that cannot be observed in commercial ICs
+         - **Undergraduate Reasearcher**: Design and implementation of a library of Integrated Circuits, for didactic and research purposes. The focus was to highlight aspects of electronics that cannot be observed in commercial ICs;
          
-         - **Undergraduate Teaching Assistant**: Assist the teacher and students in Electrical Power Systems classes; Assessment of activities and tests; Solve students doubts and assist in problem resolution; Give complementary lectures for students
+         - **Undergraduate Teaching Assistant**: Assist the teacher and students in Electrical Power Systems classes; Assessment of activities and tests; Solve students doubts and assist in problem resolution; Give complementary lectures for students;
          
-         - **GPA**: 85.95/100
+         - **GPA**: 85.95/100;
          
   - title: Publications  # Title for the section
     layout: list # Type of content section (list/text)
@@ -154,7 +154,6 @@ content:
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
       - **EDA tools**: Cadence Virtuoso, LTSpice, Multisim,HSpice, Electric, Synopsis CosmosScope;
       - **Algorithm development environments**: MATLAB, LabVIEW, GNU Octave, Scilab;
       - **Programing languages**: C, Python, Assembly;
