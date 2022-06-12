@@ -147,7 +147,9 @@ content:
         sub_title: Electrical Engineer Intern
         caption: December 2019 - March 2020
         description: | # this will include new lines to allow paragraphs
-            Summer internship in Electrical Engineering, with focus on Industrial Automation. Among the activities developed, the following stand out: Elaboration of Automation projects, Description of system's operation, Mapping of inputs and outputs, PLC and Supervisory Systems operation, Elaboration of electrical diagrams, Ladder diagram programming.
+            Summer internship in Electrical Engineering, with focus on Industrial Automation. 
+            
+            Among the activities developed, the following stand out: Elaboration of Automation projects, Description of system's operation, Mapping of inputs and outputs, PLC and Supervisory Systems operation, Elaboration of electrical diagrams, Ladder diagram programming.
 
   - title: A Little More About Me
     layout: text
