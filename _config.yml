@@ -61,12 +61,12 @@ content:
         quote: >
           
         description: | # this will include new lines to allow paragraphs
-         **• Thesis Title**: Design of a Time Domain Multiply Accumulate Unit in 180nm CMOS Technology;
+         - **Thesis Title**: Design of a Time Domain Multiply Accumulate Unit in 180nm CMOS Technology;
          
-         **• Supervisor**: Dr. Dalton Martini Colombo
+         - **Supervisor**: Dr. Dalton Martini Colombo
          **Co-supervisor**: Dr. Kamal El-Sankary;
          
-         **• Area of Study**: Microelectronics, IC design;
+         - **Area of Study**: Microelectronics, IC design;
          
          CAPES scholarship holder;
          
@@ -155,10 +155,11 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
+      - EDA tools: Cadence Virtuoso, LTSpice, Multisim,HSpice, Electric, Synopsis CosmosScope;
+      - Algorithm development environments: MATLAB, LabVIEW, GNU Octave, Scilab;
+      - Programing languages: C, Python, Assembly;
+      - Testing and Measurement: Signal generator, Oscilloscope, Multimeter, Spectrum Analyzer, LabVIEW;
+      - Other tools:Microsoft Word, Power Point, Excel, LaTeX;
 
       Look at this cool image  
       ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
