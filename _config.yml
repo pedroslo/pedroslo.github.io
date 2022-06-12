@@ -68,7 +68,7 @@ content:
          
          - **Area of Study**: Microelectronics, IC design;
          
-         - **Awards**:CAPES scholarship holder;
+         - **Awards**: CAPES scholarship holder;
          
       - layout: left
         title: Federal Center for Technological Education of Minas Gerais
@@ -81,6 +81,7 @@ content:
          
          - **Undergraduate Teaching Assistant**: Assist the teacher and students in Electrical Power Systems classes; Assessment of activities and tests; Solve students doubts and assist in problem resolution; Give complementary lectures for students
          
+         - **GPA**: 85.95/100
          
   - title: Publications  # Title for the section
     layout: list # Type of content section (list/text)
@@ -154,14 +155,12 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - EDA tools: Cadence Virtuoso, LTSpice, Multisim,HSpice, Electric, Synopsis CosmosScope;
-      - Algorithm development environments: MATLAB, LabVIEW, GNU Octave, Scilab;
-      - Programing languages: C, Python, Assembly;
-      - Testing and Measurement: Signal generator, Oscilloscope, Multimeter, Spectrum Analyzer, LabVIEW;
-      - Other tools:Microsoft Word, Power Point, Excel, LaTeX;
+      - **EDA tools**: Cadence Virtuoso, LTSpice, Multisim,HSpice, Electric, Synopsis CosmosScope;
+      - **Algorithm development environments**: MATLAB, LabVIEW, GNU Octave, Scilab;
+      - **Programing languages**: C, Python, Assembly;
+      - **Testing and Measurement**: Signal generator, Oscilloscope, Multimeter, Spectrum Analyzer, LabVIEW;
+      - **Other tools**: Microsoft Word, Power Point, Excel, LaTeX;
 
-      Look at this cool image  
-      ![Trees](/modern-resume-theme/images/landscape-trees.jpg "Trees")
 
 # Footer
 footer_show_references: true
