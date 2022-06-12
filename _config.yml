@@ -103,7 +103,18 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          **[1]** ; LOCATELLI, P. S. ;CARDOSO, D. S. ; RAMALHO, W. . Geração compartilhada de energia fotovoltaica:: impactos da proposta de nova regulamentação pela ANEEL na atratividade do investimento. In: VIII Simpósio Internacional de Gestão de Projetos, Inovação e Sustentabilidade - SINGEP, 2020, São Paulo - SP. Anais do VIII Simpósio Internacional de Gestão de Projetos, Inovação e Sustentabilidade - SINGEP. São Paulo - SP: Uninove, 2020. v. 1. p. 1-16.
+          **[1]** LOCATELLI, P. S. ;CARDOSO, D. S. ; RAMALHO, W. . Geração compartilhada de energia fotovoltaica:: impactos da proposta de nova regulamentação pela ANEEL na atratividade do investimento. In: VIII Simpósio Internacional de Gestão de Projetos, Inovação e Sustentabilidade - SINGEP, 2020, São Paulo - SP. Anais do VIII Simpósio Internacional de Gestão de Projetos, Inovação e Sustentabilidade - SINGEP. São Paulo - SP: Uninove, 2020. v. 1. p. 1-16.
+
+      - layout: top-middle
+        title: Conference Presentations
+        # link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          **[1]**  LOCATELLI, P. S.; SANTOS, P. M. ; GOMES, E. A. . Design of an Integrated Circuit library for educational and research purposes. In: Science and Technology Week, Federal Center for Technological Education of Minas Gerais, Belo Horizonte, Brazil. June 2019.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
