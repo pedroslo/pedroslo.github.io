@@ -92,7 +92,19 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+          1. CARDOSO, D. S. ; LOCATELLI, P. S. ; RAMALHO, W. ; ASGARY, N. . Distributed generation of photovoltaic solar energy: impacts of ANEEL`s new regulation proposal on investment attractiveness. Brazilian Journal of Management - ReA UFSM, v. 14, p. 423-442, 2021
+          2. Another item
+      - layout: top-middle
+        title: Conference Proceedings
+        # link: github.com/sproogen
+        # link_text: Project Website
+        additional_links:
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        description: | # this will include new lines to allow paragraphs
+          1. CARDOSO, D. S. ; LOCATELLI, P. S. ; RAMALHO, W. ; ASGARY, N. . Distributed generation of photovoltaic solar energy: impacts of ANEEL`s new regulation proposal on investment attractiveness. Brazilian Journal of Management - ReA UFSM, v. 14, p. 423-442, 2021
+          2. Another item
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
