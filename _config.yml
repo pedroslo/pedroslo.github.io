@@ -68,12 +68,12 @@ content:
          
          - **Area of Study**: Microelectronics, IC design;
          
-         CAPES scholarship holder;
+         - **Awards**:CAPES scholarship holder;
          
       - layout: left
         title: Federal Center for Technological Education of Minas Gerais
         caption: 2015 - 2020
-        sub_title: BSc Electrical Engineering 
+        sub_title: BSc Electrical Engineering GPA: 85.95/100
         description: | # this will include new lines to allow paragraphs
          - **Thesis Title**: Design of a Current Mode Active Pixel Array for CMOS Image Sensors
          
@@ -81,7 +81,6 @@ content:
          
          - **Undergraduate Teaching Assistant**: Assist the teacher and students in Electrical Power Systems classes; Assessment of activities and tests; Solve students doubts and assist in problem resolution; Give complementary lectures for students
          
-         - **GPA**: 85.95/100
          
   - title: Publications  # Title for the section
     layout: list # Type of content section (list/text)
