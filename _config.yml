@@ -95,7 +95,8 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          **[1]** CARDOSO, D. S. ; LOCATELLI, P. S. ; RAMALHO, W. ; ASGARY, N. . Distributed generation of photovoltaic solar energy: impacts of ANEEL`s new regulation proposal on investment attractiveness. Brazilian Journal of Management - ReA UFSM, v. 14, p. 423-442, 2021.
+          **[1]** P. S. Locatelli, D. M. Colombo and K. El-Sankary, "Time-Domain Multiply–Accumulate Unit," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 31, no. 6, pp. 762-775, June 2023, doi: 10.1109/TVLSI.2023.3266743
+          **[2]** CARDOSO, D. S. ; LOCATELLI, P. S. ; RAMALHO, W. ; ASGARY, N. . Distributed generation of photovoltaic solar energy: impacts of ANEEL`s new regulation proposal on investment attractiveness. Brazilian Journal of Management - ReA UFSM, v. 14, p. 423-442, 2021.
           
      
   - title: Conference Proceedings  # Title for the section
@@ -121,8 +122,7 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          **[1]** P. S. Locatelli, D. M. Colombo and K. El-Sankary, "Time-Domain Multiply–Accumulate Unit," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 31, no. 6, pp. 762-775, June 2023, doi: 10.1109/TVLSI.2023.3266743
-          **[2]** LOCATELLI, P. S. . Distributed generation of photovoltaic solar energy: impacts of ANEEL`s new regulation proposal on investment attractiveness. In: VIII SINGEP and 8th CIK Online Conference, 2020.
+          **[1]** LOCATELLI, P. S. . Distributed generation of photovoltaic solar energy: impacts of ANEEL`s new regulation proposal on investment attractiveness. In: VIII SINGEP and 8th CIK Online Conference, 2020.
       - layout: top-middle
         title: Abstracts
         # link: github.com/sproogen
