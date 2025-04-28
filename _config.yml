@@ -171,6 +171,15 @@ content:
             
             Among the activities developed, the following stand out: Elaboration of Automation projects, Description of system's operation, Mapping of inputs and outputs, PLC and Supervisory Systems operation, Elaboration of electrical diagrams, Ladder diagram programming.
 
+        - layout: left
+        title: Graduate Teaching Assistant
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: ECED 3201 - Introduction to Electronics
+        caption: January 2025 - April 2025
+        description: | # this will include new lines to allow paragraphs
+          Introduction to Electronics (ECED 3201) Teaching Assistant
+          
   - title: Skills
     layout: text
     content: | # this will include new lines to allow paragraphs
@@ -179,6 +188,16 @@ content:
       - **Programing languages**: C, Python, Assembly;
       - **Testing and Measurement**: Signal generator, Oscilloscope, Multimeter, Spectrum Analyzer, LabVIEW;
       - **Other tools**: Microsoft Word, Power Point, Excel, LaTeX;
+
+  - title: Awards and Scholarships
+    layout: text
+    content: | # this will include new lines to allow paragraphs
+      - **Killam Predoctoral Scholarship (Level 2 - Doctoral)**;
+      - **Emerging Leaders in the Americas Program (ELAP)**;
+      - **Exxon Mobil Canada Ltd. Post-Graduate Scholarship**;
+      - **Ministry of Education in Brazil, CAPES scholarship**;
+      - ** ELAP and SICS 2023 Study Tour (Department of Foreign Affairs, Trade and Development Canada & Canadian Bureau for International Education)**;
+      
 
 
 # Footer
