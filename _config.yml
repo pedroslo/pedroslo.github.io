@@ -9,45 +9,24 @@ version: 2
 name: Pedro Sartori Locatelli
 title: PhD Candidate in Electrical Engineering 
 email: pedrosartloc@gmail.com
-#website: www.github.com/sproogen/resume-theme
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-#twitter_username: facespics
-github_username:  pedroslo
-# stackoverflow_username: "00000001"
-# dribbble_username: jekyll
-# facebook_username: jekyll
-# flickr_username: jekyll
-#instagram_username: jameswgrant
+github_username: pedroslo
 linkedin_username: pedro-sartori-locatelli
-# xing_username: jekyll
-# pinterest_username: jekyll
-#youtube_username: globalmtb
-# googleplus_username: +jekyll
 orcid_username: 0000-0003-3318-0194
 
 # Additional icon links
 additional_links:
-- title: Portuguese CV
-  icon: fas fa-globe
-  url: shorturl.at/moxT5
-# - title: another link
-#   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&m=free)
-#   url: Link url (eg. https://google.com)
-
-# Google Analytics and Tag Manager
-# Using more than one of these may cause issues with reporting
-# gtm: "GTM-0000000"
-# gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+  - title: Portuguese CV
+    icon: fas fa-globe
+    url: shorturl.at/moxT5
 
 # About Section
-# about_title: About Me
 about_profile_image: images/perfil.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: |
   Hi! I’m currently a PhD candidate in Electrical and Computer Engineering at Dalhousie University, Canada. I received my M.Sc. degree in Electrical Engineering (Microelectronics) at the Federal University of Minas Gerais (UFMG), Brazil, acting as a Visiting Graduate Researcher for one semester at Dalhousie University, Canada. I received my B.Sc. in Electrical Engineering from the Federal Center for Technological Education of Minas Gerais (CEFET/MG) in 2020, where I worked as an undergraduate researcher on IC design and image sensors. I also have some teaching experience, having been both undergraduate and graduate teaching assistant.
 
 content:
@@ -83,69 +62,43 @@ content:
         sub_title: BSc Electrical Engineering
         description: |
           - **Thesis Title**: Design of a Current Mode Active Pixel Array for CMOS Image Sensors;
-          - **Undergraduate Researcher**: Design and implementation of a library of Integrated Circuits, for didactic and research purposes. The focus was to highlight aspects of electronics that cannot be observed in commercial ICs;
-          - **Undergraduate Teaching Assistant**: Assisted the teacher and students in Electrical Power Systems classes; Assessment of activities and tests; Solved students doubts and assisted in problem resolution; Gave complementary lectures for students;
+          - **Undergraduate Researcher**: Design and implementation of a library of Integrated Circuits, for didactic and research purposes;
+          - **Undergraduate Teaching Assistant**: Assisted the teacher and students in Electrical Power Systems classes; assessment of activities and tests; solved students doubts and assisted in problem resolution; gave complementary lectures;
           - **GPA**: 85.95/100;
 
-         
-  - title: Publications  # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Publications
+    layout: list
     content:
       - layout: top-middle
-        title: Publications
-        # link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: | # this will include new lines to allow paragraphs
+        title: Journal Papers
+        description: |
           **[1]** P. Sartori Locatelli, S. Ait Fares, D. Martini Colombo, K. El-Sankary and M. S. Freund, "Multi-Task Spiking Neural Network for Simultaneous Vapor Recognition and Concentration Estimation," in IEEE Access, vol. 13, pp. 29847-29863, 2025, doi: 10.1109/ACCESS.2025.3541408.
 
           **[2]** P. S. Locatelli, D. M. Colombo and K. El-Sankary, "Time-Domain Multiply–Accumulate Unit," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 31, no. 6, pp. 762-775, June 2023, doi: 10.1109/TVLSI.2023.3266743.
           
-          **[3]** CARDOSO, D. S. ; LOCATELLI, P. S. ; RAMALHO, W. ; ASGARY, N. . Distributed generation of photovoltaic solar energy: impacts of ANEEL`s new regulation proposal on investment attractiveness. Brazilian Journal of Management - ReA UFSM, v. 14, p. 423-442, 2021.
-          
-     
-  - title: Conference Proceedings  # Title for the section
-    layout: list # Type of content section (list/text)
+          **[3]** CARDOSO, D. S.; LOCATELLI, P. S.; RAMALHO, W.; ASGARY, N., "Distributed generation of photovoltaic solar energy: impacts of ANEEL's new regulation proposal on investment attractiveness," Brazilian Journal of Management - ReA UFSM, v.14, p.423-442, 2021.
+
+  - title: Conference Proceedings
+    layout: list
     content:
       - layout: top-middle
         title: Papers
-        # link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: | # this will include new lines to allow paragraphs
-          **[1]** LOCATELLI, P. S. ;CARDOSO, D. S. ; RAMALHO, W. . Geração compartilhada de energia fotovoltaica:: impactos da proposta de nova regulamentação pela ANEEL na atratividade do investimento. In: VIII International Symposium on Project Management, Innovation and Sustainability - SINGEP. São Paulo - SP: Uninove, 2020. v. 1. p. 1-16.
-          
+        description: |
+          **[1]** LOCATELLI, P. S.; CARDOSO, D. S.; RAMALHO, W. "Geração compartilhada de energia fotovoltaica: impactos da proposta de nova regulamentação pela ANEEL na atratividade do investimento." VIII International Symposium on Project Management, Innovation and Sustainability - SINGEP, São Paulo, 2020.
+
       - layout: top-middle
         title: Presentations
-        # link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: | # this will include new lines to allow paragraphs
-          **[1]** LOCATELLI, P. S. . Distributed generation of photovoltaic solar energy: impacts of ANEEL`s new regulation proposal on investment attractiveness. In: VIII SINGEP and 8th CIK Online Conference, 2020.
+        description: |
+          **[1]** LOCATELLI, P. S., "Distributed generation of photovoltaic solar energy: impacts of ANEEL's new regulation proposal on investment attractiveness." VIII SINGEP and 8th CIK Online Conference, 2020.
+
       - layout: top-middle
         title: Abstracts
-        # link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        description: | # this will include new lines to allow paragraphs
-          **[1]**  LOCATELLI, P. S.; SANTOS, P. M. ; GOMES, E. A. . Design of an Integrated Circuit library for educational and research purposes. In: 15th Science and Technology Week, Federal Center for Technological Education of Minas Gerais, Belo Horizonte, Brazil. October 2019.
-          
-          **[2]**  LOCATELLI, P. S.; SANTOS, P. M. . Integrated Circuit library for educational and research purposes. In: 14th Science and Technology Week, Federal Center for Technological Education of Minas Gerais, Belo Horizonte, Brazil. October 2018.
+        description: |
+          **[1]** LOCATELLI, P. S.; SANTOS, P. M.; GOMES, E. A., "Design of an Integrated Circuit library for educational and research purposes." 15th Science and Technology Week, CEFET-MG, 2019.
 
+          **[2]** LOCATELLI, P. S.; SANTOS, P. M., "Integrated Circuit library for educational and research purposes." 14th Science and Technology Week, CEFET-MG, 2018.
 
- - title: Experience
+  - title: Experience
     layout: list
     content:
       - layout: left
@@ -153,23 +106,24 @@ content:
         sub_title: Electrical Engineer Intern
         caption: December 2019 - March 2020
         description: |
-          Summer internship in Electrical Engineering, with focus on Industrial Automation.
+          Summer internship in Electrical Engineering, focused on Industrial Automation.
           
-          Activities included: Elaboration of automation projects, description of system operations, mapping of inputs and outputs, PLC and Supervisory Systems operation, elaboration of electrical diagrams, Ladder diagram programming.
+          Activities included: elaboration of automation projects, system operations descriptions, mapping of inputs and outputs, PLC and Supervisory Systems operation, electrical diagrams elaboration, Ladder programming.
 
       - layout: left
         title: Faculty of Graduate Studies, Dalhousie University
         sub_title: Graduate Student Mentor
         caption: July 2024 - April 2025
         description: |
-          Graduate Student Mentor providing academic and personal support to students and leading orientation workshops, information sessions, and panel discussions to help them navigate graduate studies and enhance their experience.
+          Mentoring graduate students, supporting them academically and personally, leading orientation workshops, information sessions, and panel discussions.
 
       - layout: left
         title: Dalhousie University
         sub_title: Graduate Teaching Assistant (ECED 3201 - Introduction to Electronics)
         caption: January 2025 - April 2025
         description: |
-          Assisted students in understanding fundamental electronics concepts, assessed tests and assignments, and supported laboratory sessions.
+          Assisted students in understanding fundamental electronics concepts, assessed tests and assignments, supported laboratory sessions.
+
           
   - title: Skills
     layout: text
