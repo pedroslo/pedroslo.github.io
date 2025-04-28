@@ -51,54 +51,42 @@ about_content: | # this will include new lines to allow paragraphs
   Hi! I’m currently a PhD candidate in Electrical and Computer Engineering at Dalhousie University, Canada. I received my M.Sc. degree in Electrical Engineering (Microelectronics) at the Federal University of Minas Gerais (UFMG), Brazil, acting as a Visiting Graduate Researcher for one semester at Dalhousie University, Canada. I received my B.Sc. in Electrical Engineering from the Federal Center for Technological Education of Minas Gerais (CEFET/MG) in 2020, where I worked as an undergraduate researcher on IC design and image sensors. I also have some teaching experience, having been both undergraduate and graduate teaching assistant.
 
 content:
-  - title: Education # Title for the section
-    layout: list # Type of content section (list/text)
+  - title: Education
+    layout: list
     content:
       - layout: left
         title: Dalhousie University
         caption: 2021 - Present
         sub_title: PhD Electrical and Computer Engineering
-        quote: >
+        description: |
+          - **Thesis Title**: Fully Integrated Nose-on-a-Chip System;
+          - **Supervisor**: Dr. Kamal El-Sankary;
+          - **Co-supervisor**: Dr. Michael S. Freund;
+          - **Area of Study**: Microelectronics, IC design, Machine olfaction;
+          - **Awards and Scholarships**: Killam Predoctoral Scholarship (Level 2 - Doctoral), Exxon Mobil Canada Ltd. Post-Graduate Scholarship;
           
-        description: | # this will include new lines to allow paragraphs
-         - **Thesis Title**: Fully Integrated Nose-on-a-Chip System;
-         
-         - **Supervisor**: Dr. Kamal El-Sankary;
-         **Co-supervisor**: Dr. Michael S. Freund ;
-         
-         - **Area of Study**: Microelectronics, IC design, Machine olfaction;
-         
-         - **Awards and Scholarships**: Killam Predoctoral Scholarship (Level 2 - Doctoral), Exxon Mobil Canada Ltd. Post-Graduate Scholarship;
-         
       - layout: left
-        title: Federal University of Minas Gearis
+        title: Federal University of Minas Gerais
         caption: 2021 - 2023
         sub_title: MSc Electrical Engineering - Microelectronics
-        quote: >
+        description: |
+          - **Thesis Title**: Design of a Time Domain Multiply Accumulate Unit in 180nm CMOS Technology;
+          - **Supervisor**: Dr. Dalton Martini Colombo;
+          - **Co-supervisor**: Dr. Kamal El-Sankary;
+          - **Area of Study**: Microelectronics, IC design;
+          - **Awards**: CAPES scholarship holder;
+          - **GPA**: 99/100;
           
-        description: | # this will include new lines to allow paragraphs
-         - **Thesis Title**: Design of a Time Domain Multiply Accumulate Unit in 180nm CMOS Technology;
-         
-         - **Supervisor**: Dr. Dalton Martini Colombo
-         **Co-supervisor**: Dr. Kamal El-Sankary;
-         
-         - **Area of Study**: Microelectronics, IC design;
-         
-         - **Awards**: CAPES scholarship holder;
-         - **GPA**: 99/100;
-         
       - layout: left
         title: Federal Center for Technological Education of Minas Gerais
         caption: 2015 - 2020
-        sub_title: BSc Electrical Engineering 
-        description: | # this will include new lines to allow paragraphs
-         - **Thesis Title**: Design of a Current Mode Active Pixel Array for CMOS Image Sensors;
-         
-         - **Undergraduate Reasearcher**: Design and implementation of a library of Integrated Circuits, for didactic and research purposes. The focus was to highlight aspects of electronics that cannot be observed in commercial ICs;
-         
-         - **Undergraduate Teaching Assistant**: Assist the teacher and students in Electrical Power Systems classes; Assessment of activities and tests; Solve students doubts and assist in problem resolution; Give complementary lectures for students;
-         
-         - **GPA**: 85.95/100;
+        sub_title: BSc Electrical Engineering
+        description: |
+          - **Thesis Title**: Design of a Current Mode Active Pixel Array for CMOS Image Sensors;
+          - **Undergraduate Researcher**: Design and implementation of a library of Integrated Circuits, for didactic and research purposes. The focus was to highlight aspects of electronics that cannot be observed in commercial ICs;
+          - **Undergraduate Teaching Assistant**: Assisted the teacher and students in Electrical Power Systems classes; Assessment of activities and tests; Solved students doubts and assisted in problem resolution; Gave complementary lectures for students;
+          - **GPA**: 85.95/100;
+
          
   - title: Publications  # Title for the section
     layout: list # Type of content section (list/text)
