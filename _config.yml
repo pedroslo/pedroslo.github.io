@@ -140,11 +140,11 @@ content:
   - title: Awards and Scholarships
     layout: text
     content: | # this will include new lines to allow paragraphs
-      - **Killam Predoctoral Scholarship (Level 2 - Doctoral)**;
-      - **Emerging Leaders in the Americas Program (ELAP)**;
+      - **Killam Predoctoral Scholarship (Level 2 - Doctoral)**: Awarded by Dalhousie University through the Killam Trusts to outstanding doctoral students for academic excellence and research achievement;
+      - **Emerging Leaders in the Americas Program (ELAP)**: Awarded by the Government of Canada (Global Affairs Canada) to support international academic exchange and research excellence;
       - **Exxon Mobil Canada Ltd. Post-Graduate Scholarship**;
-      - **Ministry of Education in Brazil, CAPES scholarship**;
-      - ** ELAP and SICS 2023 Study Tour (Department of Foreign Affairs, Trade and Development Canada & Canadian Bureau for International Education)**;
+      - **CAPES scholarship**: Award by the Brazilian Ministry of Education to support postgraduate students conducting advanced studies or research abroad;
+      - ** ELAP and SICS 2023 Study Tour **:  Grant awarded by the Department of Foreign Affairs, Trade and Development Canada & Canadian Bureau for International Education to students who show leadership skills, for participating in the ELAP and SICS 2023 Study Tour on the theme 'A Sustainable Canada'. The aim of this study tour is to gain a better understanding of Canada's society and institutions while cultivating leadership skills ;
       
 
 
