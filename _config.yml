@@ -53,7 +53,23 @@ about_content: | # this will include new lines to allow paragraphs
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
-    content:      
+    content:
+      - layout: left
+        title: Dalhousie University
+        caption: 2021 - Present
+        sub_title: PhD Electrical and Computer Engineering
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+         - **Thesis Title**: Fully Integrated Nose-on-a-Chip System;
+         
+         - **Supervisor**: Dr. Kamal El-Sankary;
+         **Co-supervisor**: Dr. Michael S. Freund ;
+         
+         - **Area of Study**: Microelectronics, IC design, Machine olfaction;
+         
+         - **Awards and Scholarships**: Killam Predoctoral Scholarship (Level 2 - Doctoral), Exxon Mobil Canada Ltd. Post-Graduate Scholarship;
+         
       - layout: left
         title: Federal University of Minas Gearis
         caption: 2021 - 2023
