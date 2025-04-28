@@ -175,7 +175,16 @@ content:
         title: Graduate Teaching Assistant
         # link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: ECED 3201 - Introduction to Electronics
+        sub_title: Graduate Student Mentor
+        caption: July 2024 - April 2025
+        description: | # this will include new lines to allow paragraphs
+          Graduate Student Mentor at the Faculty of Graduate Studies, Dalhousie University, providing academic and personal support to students and leading orientation workshops, 
+          information sessions and panel discussions to help them navigate their graduate studies and support the student experience.
+        - layout: left
+        title: Dalhousie University
+        # link: boringcompany.com
+        # link_text: boringcompany.com
+        sub_title: Graduate Teaching Assistant(ECED 3201 - Introduction to Electronics)
         caption: January 2025 - April 2025
         description: | # this will include new lines to allow paragraphs
           Introduction to Electronics (ECED 3201) Teaching Assistant
