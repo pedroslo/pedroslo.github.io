@@ -48,15 +48,31 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi!! I’m currently a PhD candidate in Electrical and Computer Engineering at Dalhousie University, Canada. I received my M.Sc. degree in Electrical Engineering (Microelectronics) at the Federal University of Minas Gerais (UFMG), Brazil, acting as a Visiting Graduate Researcher for one semester at Dalhousie University, Canada. I received my B.Sc. in Electrical Engineering from the Federal Center for Technological Education of Minas Gerais (CEFET/MG) in 2020, where I worked as an undergraduate researcher on IC design and image sensors. I also have some teaching experience, having been both undergraduate and graduate teaching assistant.
+  Hi! I’m currently a PhD candidate in Electrical and Computer Engineering at Dalhousie University, Canada. I received my M.Sc. degree in Electrical Engineering (Microelectronics) at the Federal University of Minas Gerais (UFMG), Brazil, acting as a Visiting Graduate Researcher for one semester at Dalhousie University, Canada. I received my B.Sc. in Electrical Engineering from the Federal Center for Technological Education of Minas Gerais (CEFET/MG) in 2020, where I worked as an undergraduate researcher on IC design and image sensors. I also have some teaching experience, having been both undergraduate and graduate teaching assistant.
 
 content:
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
+        - layout: left
+        title: Dalhousie University
+        caption: 2021 - 2023
+        sub_title: PhD Electrical and Computer Engineering
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+         - **Thesis Title**: Fully Integrated Nose-on-a-Chip System;
+         
+         - **Supervisor**: Dr. Kamal El-Sankary;
+         **Co-supervisor**: Dr. Michael S. Freund ;
+         
+         - **Area of Study**: Microelectronics, IC design, Machine olfaction;
+         
+         - **Awards and Scholarships**: Killam Predoctoral Scholarship (Level 2 - Doctoral), Exxon Mobil Canada Ltd. Post-Graduate Scholarship;
+         
       - layout: left
         title: Federal University of Minas Gearis
-        caption: 2021 - Present
+        caption: 2021 - 2023
         sub_title: MSc Electrical Engineering - Microelectronics
         quote: >
           
@@ -69,6 +85,7 @@ content:
          - **Area of Study**: Microelectronics, IC design;
          
          - **Awards**: CAPES scholarship holder;
+         - **GPA**: 99/100;
          
       - layout: left
         title: Federal Center for Technological Education of Minas Gerais
@@ -95,8 +112,11 @@ content:
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         description: | # this will include new lines to allow paragraphs
-          **[1]** P. S. Locatelli, D. M. Colombo and K. El-Sankary, "Time-Domain Multiply–Accumulate Unit," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 31, no. 6, pp. 762-775, June 2023, doi: 10.1109/TVLSI.2023.3266743
-          **[2]** CARDOSO, D. S. ; LOCATELLI, P. S. ; RAMALHO, W. ; ASGARY, N. . Distributed generation of photovoltaic solar energy: impacts of ANEEL`s new regulation proposal on investment attractiveness. Brazilian Journal of Management - ReA UFSM, v. 14, p. 423-442, 2021.
+          **[1]** P. Sartori Locatelli, S. Ait Fares, D. Martini Colombo, K. El-Sankary and M. S. Freund, "Multi-Task Spiking Neural Network for Simultaneous Vapor Recognition and Concentration Estimation," in IEEE Access, vol. 13, pp. 29847-29863, 2025, doi: 10.1109/ACCESS.2025.3541408.
+
+          **[2]** P. S. Locatelli, D. M. Colombo and K. El-Sankary, "Time-Domain Multiply–Accumulate Unit," in IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 31, no. 6, pp. 762-775, June 2023, doi: 10.1109/TVLSI.2023.3266743.
+          
+          **[3]** CARDOSO, D. S. ; LOCATELLI, P. S. ; RAMALHO, W. ; ASGARY, N. . Distributed generation of photovoltaic solar energy: impacts of ANEEL`s new regulation proposal on investment attractiveness. Brazilian Journal of Management - ReA UFSM, v. 14, p. 423-442, 2021.
           
      
   - title: Conference Proceedings  # Title for the section
