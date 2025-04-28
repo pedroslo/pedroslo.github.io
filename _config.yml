@@ -145,37 +145,31 @@ content:
           **[2]**  LOCATELLI, P. S.; SANTOS, P. M. . Integrated Circuit library for educational and research purposes. In: 14th Science and Technology Week, Federal Center for Technological Education of Minas Gerais, Belo Horizonte, Brazil. October 2018.
 
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
+ - title: Experience
+    layout: list
     content:
       - layout: left
         title: MD Electrical Solutions
-        # link: boringcompany.com
-        # link_text: boringcompany.com
         sub_title: Electrical Engineer Intern
         caption: December 2019 - March 2020
-        description: | # this will include new lines to allow paragraphs
-            Summer internship in Electrical Engineering, with focus on Industrial Automation. 
-            
-            Among the activities developed, the following stand out: Elaboration of Automation projects, Description of system's operation, Mapping of inputs and outputs, PLC and Supervisory Systems operation, Elaboration of electrical diagrams, Ladder diagram programming.
+        description: |
+          Summer internship in Electrical Engineering, with focus on Industrial Automation.
+          
+          Activities included: Elaboration of automation projects, description of system operations, mapping of inputs and outputs, PLC and Supervisory Systems operation, elaboration of electrical diagrams, Ladder diagram programming.
 
-        - layout: left
-        title: Graduate Teaching Assistant
-        # link: boringcompany.com
-        # link_text: boringcompany.com
+      - layout: left
+        title: Faculty of Graduate Studies, Dalhousie University
         sub_title: Graduate Student Mentor
         caption: July 2024 - April 2025
-        description: | # this will include new lines to allow paragraphs
-          Graduate Student Mentor at the Faculty of Graduate Studies, Dalhousie University, providing academic and personal support to students and leading orientation workshops, 
-          information sessions and panel discussions to help them navigate their graduate studies and support the student experience.
-        - layout: left
+        description: |
+          Graduate Student Mentor providing academic and personal support to students and leading orientation workshops, information sessions, and panel discussions to help them navigate graduate studies and enhance their experience.
+
+      - layout: left
         title: Dalhousie University
-        # link: boringcompany.com
-        # link_text: boringcompany.com
-        sub_title: Graduate Teaching Assistant(ECED 3201 - Introduction to Electronics)
+        sub_title: Graduate Teaching Assistant (ECED 3201 - Introduction to Electronics)
         caption: January 2025 - April 2025
-        description: | # this will include new lines to allow paragraphs
-          Introduction to Electronics (ECED 3201) Teaching Assistant
+        description: |
+          Assisted students in understanding fundamental electronics concepts, assessed tests and assignments, and supported laboratory sessions.
           
   - title: Skills
     layout: text
