@@ -48,7 +48,7 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/perfil.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi! I’m currently a PhD candidate in Electrical and Computer Engineering at Dalhousie University, Canada. I received my M.Sc. degree in Electrical Engineering (Microelectronics) at the Federal University of Minas Gerais (UFMG), Brazil, acting as a Visiting Graduate Researcher for one semester at Dalhousie University, Canada. I received my B.Sc. in Electrical Engineering from the Federal Center for Technological Education of Minas Gerais (CEFET/MG) in 2020, where I worked as an undergraduate researcher on IC design and image sensors. I also have some teaching experience, having been both undergraduate and graduate teaching assistant.
+  Hi!! I’m currently a PhD candidate in Electrical and Computer Engineering at Dalhousie University, Canada. I received my M.Sc. degree in Electrical Engineering (Microelectronics) at the Federal University of Minas Gerais (UFMG), Brazil, acting as a Visiting Graduate Researcher for one semester at Dalhousie University, Canada. I received my B.Sc. in Electrical Engineering from the Federal Center for Technological Education of Minas Gerais (CEFET/MG) in 2020, where I worked as an undergraduate researcher on IC design and image sensors. I also have some teaching experience, having been both undergraduate and graduate teaching assistant.
 
 content:
   - title: Education # Title for the section
